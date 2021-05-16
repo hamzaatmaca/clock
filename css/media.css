@@ -1,0 +1,145 @@
+@charset "utf8";
+@media only screen and (max-width: 370px){
+#logo
+{
+	margin-top: 6px;
+}
+}
+@media only screen and (max-width: 500px){
+#logo
+{
+	
+}
+#logo img
+{
+	width: 130%;
+}
+#bottomnav ul
+{
+	width: 100%;
+}
+#bottomnav ul li 
+{
+	
+	margin:0 10px 0 10px;
+	letter-spacing: 0;
+
+}
+#bottomnav ul li a
+{
+	letter-spacing: 1px;
+}
+
+/*main bölümü*/
+
+#indirimyazisi
+{
+	font-size: 15px;
+	
+}
+
+}
+@media only screen and (max-width: 768px){
+
+#membersshop{
+	margin-right: 0;
+	margin-top: 10px;
+	width: 40%;
+}
+#in
+{
+	margin-top:10px;
+	margin-left: 50px;
+	text-align: center;
+}
+#in button
+{
+	height: 20px;
+	font-size: 12px;
+	border:none;
+}
+
+#in input
+{
+	height: 20px;
+	width: 70%;
+	font-size: 12px;
+}
+
+#bottomnav ul li a
+{
+	font-size: 10px;
+	text-align: center;
+	line-height: 1.5;
+	letter-spacing: 0;
+
+}
+#bottomnav ul li a:hover
+{
+	font-size: 8px;
+	text-align: center;
+	line-height: 1.5;
+	letter-spacing: 0;
+
+}
+
+
+
+/*main bölümü*/
+
+#indirimyazisi
+{
+	font-size: 25px;
+	letter-spacing: 1px;
+}
+.uruncart
+{
+	width: 40%;
+}
+.urunyazi
+{	
+	font-size:12px;
+	line-height: 1.5;	
+}
+.fiyat
+{
+	color:red;
+	font-size: 14px;
+}
+#indirimyazisi
+{
+	font-size: 17px;
+}
+}
+@media only screen and (max-width: 840px){
+.members{
+	display: none;
+
+	}
+}
+@media only screen and (max-width: 992px){
+.members{
+	font-size: 12px;
+
+	
+}
+
+#membersshop{
+	margin-top: 15px;
+}
+
+#in
+{
+	margin-top:15px;
+}
+ #links ul li 
+{
+	text-align: center;
+	line-height: 1;
+}
+
+}
+
+@media only screen and (min-width: 1600px) and (max-width: 3000px){
+
+}
